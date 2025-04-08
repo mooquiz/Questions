@@ -1,19 +1,22 @@
 Tuesday's Quiz Questions
 
 Question One
-*Correct Answer
+1
+Correct Answer
 Wrong Answer One
 Wrong Answer Two
 Wrong Answer Three
 
 Question Two
+3
 Wrong Answer One
 Wrong Answer Two
-*Correct Answer
+Correct Answer
 Wrong Answer Three
 
 Question Two
+4
 Wrong Answer One
 Wrong Answer Two
 Wrong Answer Three
-* Correct Answer
+Correct Answer
