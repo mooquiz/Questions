@@ -12,3 +12,17 @@ What is cheese?
 Stilton
 A type of beef
 🧃🦙📯🧊🌘🦷🪰📼🥒🎲
+
+Is this the third question?
+2
+No
+Yes
+Thing
+Whoops
+
+And finally... True or False?
+3
+True
+False
+Neither
+Both
